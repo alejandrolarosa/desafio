@@ -31,6 +31,9 @@ Las permutaciones que pasen estas validaciones son agregadas a un set, para evit
 
 y luego imprimimos el set obtenido con todas las recetas validas.
 
+De las alternativas que tenia para elegir como estrategia, me parecio esta la mas flexible a cambios,
+ya que tenemos todas las permutaciones que existen con la cantidad de ingredientes, los mismos podrian
+modificarse y seria facil cambiar logica de validacion en los metodos.
 
 EJECUCION:
 
